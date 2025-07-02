@@ -1,4 +1,5 @@
-tensorflow==2.18.0
+tensorflow
+gunicorn
 Flask
 Pillow
 gdown
